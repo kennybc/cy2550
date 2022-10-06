@@ -1,0 +1,184 @@
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 20:32 ?        00:00:00 /sbin/init splash
+root           2       0  0 20:32 ?        00:00:00 [kthreadd]
+root           3       2  0 20:32 ?        00:00:00 [rcu_gp]
+root           4       2  0 20:32 ?        00:00:00 [rcu_par_gp]
+root           5       2  0 20:32 ?        00:00:00 [netns]
+root           6       2  0 20:32 ?        00:00:00 [kworker/0:0-events]
+root           7       2  0 20:32 ?        00:00:00 [kworker/0:0H-events_highpri]
+root           9       2  0 20:32 ?        00:00:00 [kworker/u2:0-events_unbound]
+root          10       2  0 20:32 ?        00:00:00 [mm_percpu_wq]
+root          11       2  0 20:32 ?        00:00:00 [rcu_tasks_rude_]
+root          12       2  0 20:32 ?        00:00:00 [rcu_tasks_trace]
+root          13       2  0 20:32 ?        00:00:00 [ksoftirqd/0]
+root          14       2  0 20:32 ?        00:00:00 [rcu_sched]
+root          15       2  0 20:32 ?        00:00:00 [migration/0]
+root          16       2  0 20:32 ?        00:00:00 [idle_inject/0]
+root          17       2  0 20:32 ?        00:00:00 [cpuhp/0]
+root          18       2  0 20:32 ?        00:00:00 [kdevtmpfs]
+root          19       2  0 20:32 ?        00:00:00 [inet_frag_wq]
+root          20       2  0 20:32 ?        00:00:00 [kauditd]
+root          21       2  0 20:32 ?        00:00:00 [khungtaskd]
+root          22       2  0 20:32 ?        00:00:00 [oom_reaper]
+root          23       2  0 20:32 ?        00:00:00 [writeback]
+root          24       2  0 20:32 ?        00:00:00 [kcompactd0]
+root          25       2  0 20:32 ?        00:00:00 [ksmd]
+root          26       2  0 20:32 ?        00:00:00 [khugepaged]
+root          72       2  0 20:32 ?        00:00:00 [kintegrityd]
+root          73       2  0 20:32 ?        00:00:00 [kblockd]
+root          74       2  0 20:32 ?        00:00:00 [blkcg_punt_bio]
+root          75       2  0 20:32 ?        00:00:00 [tpm_dev_wq]
+root          76       2  0 20:32 ?        00:00:00 [ata_sff]
+root          77       2  0 20:32 ?        00:00:00 [md]
+root          78       2  0 20:32 ?        00:00:00 [edac-poller]
+root          79       2  0 20:32 ?        00:00:00 [devfreq_wq]
+root          80       2  0 20:32 ?        00:00:00 [watchdogd]
+root          82       2  0 20:32 ?        00:00:00 [kworker/0:1H-kblockd]
+root          84       2  0 20:32 ?        00:00:00 [kswapd0]
+root          85       2  0 20:32 ?        00:00:00 [ecryptfs-kthrea]
+root          87       2  0 20:32 ?        00:00:00 [kthrotld]
+root          88       2  0 20:32 ?        00:00:00 [acpi_thermal_pm]
+root          90       2  0 20:32 ?        00:00:00 [scsi_eh_0]
+root          91       2  0 20:32 ?        00:00:00 [scsi_tmf_0]
+root          92       2  0 20:32 ?        00:00:00 [scsi_eh_1]
+root          93       2  0 20:32 ?        00:00:00 [scsi_tmf_1]
+root          95       2  0 20:32 ?        00:00:00 [vfio-irqfd-clea]
+root          96       2  0 20:32 ?        00:00:00 [kworker/u2:4-events_unbound]
+root          97       2  0 20:32 ?        00:00:00 [mld]
+root          98       2  0 20:32 ?        00:00:00 [ipv6_addrconf]
+root         101       2  0 20:32 ?        00:00:00 [kworker/0:2-events]
+root         109       2  0 20:32 ?        00:00:00 [kstrp]
+root         112       2  0 20:32 ?        00:00:00 [zswap-shrink]
+root         113       2  0 20:32 ?        00:00:00 [kworker/u3:0]
+root         118       2  0 20:32 ?        00:00:00 [charger_manager]
+root         159       2  0 20:32 ?        00:00:00 [scsi_eh_2]
+root         160       2  0 20:32 ?        00:00:00 [scsi_tmf_2]
+root         181       2  0 20:32 ?        00:00:00 [jbd2/sda5-8]
+root         182       2  0 20:32 ?        00:00:00 [ext4-rsv-conver]
+root         222       1  0 20:32 ?        00:00:00 /lib/systemd/systemd-journald
+root         245       2  0 20:32 ?        00:00:00 [ipmi-msghandler]
+root         250       1  0 20:32 ?        00:00:00 /lib/systemd/systemd-udevd
+root         297       2  0 20:32 ?        00:00:00 [cryptd]
+root         310       2  0 20:32 ?        00:00:00 [ttm_swap]
+root         312       2  0 20:32 ?        00:00:00 [irq/18-vmwgfx]
+root         316       2  0 20:32 ?        00:00:00 [card0-crtc0]
+root         317       2  0 20:32 ?        00:00:00 [card0-crtc1]
+root         319       2  0 20:32 ?        00:00:00 [card0-crtc2]
+root         322       2  0 20:32 ?        00:00:00 [card0-crtc3]
+root         323       2  0 20:32 ?        00:00:00 [card0-crtc4]
+root         325       2  0 20:32 ?        00:00:00 [card0-crtc5]
+root         326       2  0 20:32 ?        00:00:00 [card0-crtc6]
+root         329       2  0 20:32 ?        00:00:00 [card0-crtc7]
+systemd+     504       1  0 20:32 ?        00:00:00 /lib/systemd/systemd-resolved
+systemd+     505       1  0 20:32 ?        00:00:00 /lib/systemd/systemd-timesyncd
+root         536       1  0 20:32 ?        00:00:00 /usr/lib/accountsservice/accounts-daemon
+root         537       1  0 20:32 ?        00:00:00 /usr/sbin/acpid
+avahi        539       1  0 20:32 ?        00:00:00 avahi-daemon: running [kennybc-VirtualBox.local]
+root         540       1  0 20:32 ?        00:00:00 /usr/sbin/cron -f
+root         542       1  0 20:32 ?        00:00:00 /usr/sbin/cupsd -l
+message+     544       1  0 20:32 ?        00:00:00 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         547       1  0 20:32 ?        00:00:00 /usr/sbin/NetworkManager --no-daemon
+root         560       1  0 20:32 ?        00:00:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+lp           566     542  0 20:32 ?        00:00:00 /usr/lib/cups/notifier/dbus dbus://
+root         568       1  0 20:32 ?        00:00:00 /usr/lib/policykit-1/polkitd --no-debug
+lp           571     542  0 20:32 ?        00:00:00 /usr/lib/cups/notifier/dbus dbus://
+syslog       577       1  0 20:32 ?        00:00:00 /usr/sbin/rsyslogd -n -iNONE
+root         586       1  0 20:32 ?        00:00:00 /usr/lib/snapd/snapd
+root         587       1  0 20:32 ?        00:00:00 /usr/libexec/switcheroo-control
+root         591       1  0 20:32 ?        00:00:00 /lib/systemd/systemd-logind
+root         592       1  0 20:32 ?        00:00:00 /usr/lib/udisks2/udisksd
+root         593       1  0 20:32 ?        00:00:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        607     539  0 20:32 ?        00:00:00 avahi-daemon: chroot helper
+root         622       1  0 20:32 ?        00:00:00 /usr/sbin/ModemManager
+root         628       1  0 20:32 ?        00:00:00 /usr/sbin/cups-browsed
+root         658       1  0 20:32 ?        00:00:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root         660       1  0 20:32 ?        00:00:00 /usr/sbin/gdm3
+root         674     660  0 20:32 ?        00:00:00 gdm-session-worker [pam/gdm-autologin]
+kennybc      694       1  0 20:32 ?        00:00:00 /lib/systemd/systemd --user
+kennybc      696     694  0 20:32 ?        00:00:00 (sd-pam)
+whoopsie     708       1  0 20:32 ?        00:00:00 /usr/bin/whoopsie -f
+kernoops     711       1  0 20:32 ?        00:00:00 /usr/sbin/kerneloops --test
+kernoops     720       1  0 20:32 ?        00:00:00 /usr/sbin/kerneloops
+kennybc      729     694  0 20:32 ?        00:00:00 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+kennybc      732     694  0 20:32 ?        00:00:00 /usr/libexec/tracker-miner-fs
+kennybc      734       1  0 20:32 ?        00:00:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+kennybc      738     674  0 20:32 tty2     00:00:00 /usr/lib/gdm3/gdm-x-session --run-script env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --systemd --session=ubuntu
+kennybc      740     738  1 20:32 tty2     00:00:05 /usr/lib/xorg/Xorg vt2 -displayfd 3 -auth /run/user/1000/gdm/Xauthority -background none -noreset -keeptty -verbose 3
+rtkit        741       1  0 20:32 ?        00:00:00 /usr/libexec/rtkit-daemon
+kennybc      745     694  0 20:32 ?        00:00:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+kennybc      749     694  0 20:32 ?        00:00:00 /usr/libexec/gvfsd
+kennybc      758     694  0 20:32 ?        00:00:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+kennybc      761     694  0 20:32 ?        00:00:00 /usr/libexec/gvfs-udisks2-volume-monitor
+kennybc      784     694  0 20:32 ?        00:00:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+kennybc      789     694  0 20:32 ?        00:00:00 /usr/libexec/gvfs-goa-volume-monitor
+kennybc      793     694  0 20:32 ?        00:00:00 /usr/libexec/goa-daemon
+kennybc      816     694  0 20:32 ?        00:00:00 /usr/libexec/goa-identity-service
+kennybc      820     694  0 20:32 ?        00:00:00 /usr/libexec/gvfs-afc-volume-monitor
+kennybc      828     694  0 20:32 ?        00:00:00 /usr/libexec/gvfs-mtp-volume-monitor
+root         832       1  0 20:32 ?        00:00:00 /usr/lib/upower/upowerd
+kennybc      841     738  0 20:32 tty2     00:00:00 /usr/libexec/gnome-session-binary --systemd --systemd --session=ubuntu
+kennybc      947     841  0 20:32 ?        00:00:00 /usr/bin/ssh-agent /usr/bin/im-launch env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --systemd --session=ubuntu
+kennybc      970     694  0 20:32 ?        00:00:00 /usr/libexec/at-spi-bus-launcher
+kennybc      975     970  0 20:32 ?        00:00:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+kennybc      983     694  0 20:32 ?        00:00:00 /usr/libexec/gnome-session-ctl --monitor
+kennybc      989     694  0 20:32 ?        00:00:00 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+kennybc     1004     694  2 20:32 ?        00:00:11 /usr/bin/gnome-shell
+kennybc     1025     694  0 20:32 ?        00:00:00 /usr/libexec/gvfsd-metadata
+kennybc     1047    1004  0 20:32 ?        00:00:00 ibus-daemon --panel disable --xim
+kennybc     1051    1047  0 20:32 ?        00:00:00 /usr/libexec/ibus-memconf
+kennybc     1054    1047  0 20:32 ?        00:00:00 /usr/libexec/ibus-extension-gtk3
+kennybc     1056     694  0 20:32 ?        00:00:00 /usr/libexec/ibus-x11 --kill-daemon
+kennybc     1058     694  0 20:32 ?        00:00:00 /usr/libexec/ibus-portal
+kennybc     1069     694  0 20:32 ?        00:00:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+kennybc     1073     694  0 20:32 ?        00:00:00 /usr/libexec/xdg-permission-store
+kennybc     1078     694  0 20:32 ?        00:00:00 /usr/libexec/gnome-shell-calendar-server
+kennybc     1084     694  0 20:32 ?        00:00:00 /usr/libexec/evolution-source-registry
+kennybc     1094     694  0 20:32 ?        00:00:00 /usr/libexec/evolution-calendar-factory
+kennybc     1102     694  0 20:32 ?        00:00:00 /usr/libexec/dconf-service
+kennybc     1107     694  0 20:32 ?        00:00:00 /usr/libexec/evolution-addressbook-factory
+kennybc     1135     694  0 20:32 ?        00:00:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+kennybc     1136     749  0 20:32 ?        00:00:00 /usr/libexec/gvfsd-trash --spawner :1.4 /org/gtk/gvfs/exec_spaw/0
+kennybc     1153     694  0 20:32 ?        00:00:00 /usr/libexec/gsd-a11y-settings
+kennybc     1154     694  0 20:32 ?        00:00:00 /usr/libexec/gsd-color
+kennybc     1155     694  0 20:32 ?        00:00:00 /usr/libexec/gsd-datetime
+kennybc     1156     694  0 20:32 ?        00:00:00 /usr/libexec/gsd-housekeeping
+kennybc     1157     694  0 20:32 ?        00:00:00 /usr/libexec/gsd-keyboard
+kennybc     1165     694  0 20:32 ?        00:00:00 /usr/libexec/gsd-media-keys
+kennybc     1168     694  0 20:32 ?        00:00:00 /usr/libexec/gsd-power
+kennybc     1169     694  0 20:32 ?        00:00:00 /usr/libexec/gsd-print-notifications
+kennybc     1173     694  0 20:32 ?        00:00:00 /usr/libexec/gsd-rfkill
+kennybc     1176     694  0 20:32 ?        00:00:00 /usr/libexec/gsd-screensaver-proxy
+kennybc     1179     694  0 20:32 ?        00:00:00 /usr/libexec/gsd-sharing
+kennybc     1180     989  0 20:32 ?        00:00:00 /usr/libexec/gsd-disk-utility-notify
+kennybc     1184     694  0 20:32 ?        00:00:00 /usr/libexec/gsd-smartcard
+kennybc     1190     694  0 20:32 ?        00:00:00 /usr/libexec/gsd-sound
+kennybc     1196     694  0 20:32 ?        00:00:00 /usr/libexec/gsd-usb-protection
+kennybc     1199     694  0 20:32 ?        00:00:00 /usr/libexec/gsd-wacom
+kennybc     1203     694  0 20:32 ?        00:00:00 /usr/libexec/gsd-wwan
+kennybc     1208     694  0 20:32 ?        00:00:00 /usr/libexec/gsd-xsettings
+kennybc     1225     989  0 20:32 ?        00:00:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+kennybc     1248     694  0 20:32 ?        00:00:00 /usr/libexec/gsd-printer
+colord      1266       1  0 20:32 ?        00:00:00 /usr/libexec/colord
+kennybc     1289    1047  0 20:32 ?        00:00:00 /usr/libexec/ibus-engine-simple
+kennybc     1351     694  0 20:32 ?        00:00:03 /usr/bin/keybase --use-default-log-file --debug service
+kennybc     1389     694  0 20:32 ?        00:00:00 /usr/bin/kbfsfuse -debug -log-to-file
+kennybc     1392     694  0 20:32 ?        00:00:00 /usr/bin/keybase-redirector /keybase
+kennybc     1412     694  0 20:32 ?        00:00:00 /opt/keybase/Keybase --enable-crashpad
+kennybc     1419    1412  0 20:32 ?        00:00:00 /opt/keybase/Keybase --type=zygote --no-zygote-sandbox --enable-crashpad --enable-crashpad
+kennybc     1420    1412  0 20:32 ?        00:00:00 /opt/keybase/Keybase --type=zygote --enable-crashpad --enable-crashpad
+kennybc     1422    1420  0 20:32 ?        00:00:00 /opt/keybase/Keybase --type=zygote --enable-crashpad --enable-crashpad
+kennybc     1443     694  0 20:32 ?        00:00:00 /usr/libexec/xdg-desktop-portal
+kennybc     1451     694  0 20:32 ?        00:00:00 /usr/libexec/xdg-document-portal
+kennybc     1461     694  0 20:32 ?        00:00:00 /usr/libexec/xdg-desktop-portal-gtk
+kennybc     1468    1412  0 20:32 ?        00:00:00 /opt/keybase/Keybase --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --enable-crashpad --enable-crash-reporter=66077755-777b-40b2-a794-14a7777d7995,no_channel --user-data-dir=/home/kennybc/.config/Keybase --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,73628284281295307,17119419513264187020,131072 --disable-features=PlzServiceWorker,SpareRendererForSitePerProcess --enable-crashpad
+kennybc     1474    1412  0 20:32 ?        00:00:00 /opt/keybase/Keybase --type=renderer --enable-crashpad --enable-crash-reporter=66077755-777b-40b2-a794-14a7777d7995,no_channel --user-data-dir=/home/kennybc/.config/Keybase --app-path=/opt/keybase/resources/app --no-sandbox --no-zygote --lang=en-US --num-raster-threads=1 --renderer-client-id=4 --launch-time-ticks=25240673 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,73628284281295307,17119419513264187020,131072 --disable-features=PlzServiceWorker,SpareRendererForSitePerProcess --enable-crashpad
+kennybc     1478    1412  0 20:32 ?        00:00:01 /opt/keybase/Keybase --type=renderer --enable-crashpad --enable-crash-reporter=66077755-777b-40b2-a794-14a7777d7995,no_channel --user-data-dir=/home/kennybc/.config/Keybase --app-path=/opt/keybase/resources/app --no-sandbox --no-zygote --lang=en-US --num-raster-threads=1 --renderer-client-id=5 --launch-time-ticks=25287101 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,73628284281295307,17119419513264187020,131072 --disable-features=PlzServiceWorker,SpareRendererForSitePerProcess --enable-crashpad
+kennybc     1531    1419  0 20:32 ?        00:00:00 /opt/keybase/Keybase --type=gpu-process --enable-crashpad --enable-crash-reporter=66077755-777b-40b2-a794-14a7777d7995,no_channel --user-data-dir=/home/kennybc/.config/Keybase --gpu-preferences=UAAAAAAAAAAgAAAIAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAABgAAAAAAAAAGAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAACAAAAAAAAAA= --use-gl=angle --use-angle=swiftshader-webgl --shared-files --field-trial-handle=0,73628284281295307,17119419513264187020,131072 --disable-features=PlzServiceWorker,SpareRendererForSitePerProcess
+kennybc     1551     694  0 20:33 ?        00:00:02 /usr/bin/nautilus --gapplication-service
+kennybc     1590     694  0 20:33 ?        00:00:02 /usr/libexec/gnome-terminal-server
+kennybc     1598    1590  0 20:33 pts/0    00:00:00 bash
+kennybc     1608     989  0 20:33 ?        00:00:00 update-notifier
+kennybc     3043     734  0 20:37 ?        00:00:00 /usr/bin/ssh-agent -D -a /run/user/1000/keyring/.ssh
+kennybc     3084     694  0 20:39 ?        00:00:00 /usr/libexec/tracker-store
+root        3095       2  0 20:40 ?        00:00:00 [kworker/u2:1-events_unbound]
+kennybc     3321    1598  0 20:40 pts/0    00:00:00 ps -ef
