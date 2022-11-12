@@ -1,0 +1,21 @@
+# Last Modified: Fri Nov 11 19:26:33 2022
+#include <tunables/global>
+
+/home/kennybc/cy2550/project6/p2 flags=(audit) {
+  #include <abstractions/base>
+
+  /home/kennybc/cy2550/project6/p2 mr,
+  /tmp/project* rw,
+  /home/kennybc/.project2/config w,
+  /var/log/syslog r,
+  /etc/fstab r,
+  /proc/version r,
+  /proc/buddyinfo r,
+  /etc/crontab r,
+  /run/systemd/resolve/stub-resolv.conf r,
+  /etc/passwd r,
+  /etc/hosts r,
+  /home/kennybc/cy2550/project6/template r,
+  network tcp,
+  
+}
